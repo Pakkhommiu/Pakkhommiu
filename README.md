@@ -5,11 +5,11 @@ Hi 👋 My name is Pakkhom
 Junior
 ------
 
-I'm interested and looking for a place where I can practice UX/UI, front-end and data analytics learning to improve my potential.
+I'm interested and looking for a place where I can practice Network Engineer, System Engineer, IT Supports learning to improve my potential.
 
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [sunrisedefup@gmail.com](mailto:sunrisedefup@gmail.com)
-*   🧠  I'm learning about UX/UI, front-end development, and data analytics.
+*   🧠  I'm learning about Network Engineer, System Engineer, IT Supports.
 *   ⚡  I enjoy learning things that are difficult to understand and believe that learning from mistakes is the best way to grow.
 
 <!--
